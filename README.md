@@ -1,6 +1,6 @@
-# 🖥️ System Information Script
+# 🖥️ IP GRABBER Script
 
-ℹ️ This script retrieves system information and sends it to a Discord webhook. It also extracts user information from Discord files if Discord is installed.
+ℹ️ This script grabs system information and sends it to a Discord webhook. It also extracts user information from Discord files if Discord is installed.
 
 **Note: Use this script responsibly and ethically. I am not responsible for any malicious activity conducted using this script. It is made for educational purposes only.**
 
